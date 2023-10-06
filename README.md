@@ -2,7 +2,7 @@
 A Hackintosh EFI For Acer E5-575
 
 # Screenshot
-![IMG_20230724_093712_395](https://github.com/UnsuitableFollower/E5-575-OC/assets/88485719/e65d5d37-25eb-4c53-a9f3-6d33ec75f84a)
+![tg_image_432743727](https://github.com/UnsuitableFollower/E5-575-OC/assets/88485719/5cecc10f-5dd6-4b56-844a-95aaaa78dde7)
 
 # Specification My Acer E5-575
 
