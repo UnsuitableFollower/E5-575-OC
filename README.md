@@ -42,7 +42,7 @@ A Hackintosh EFI For Acer E5-575
 # Notes
 * If you want to reboot Mac OS to Windows, you are required to do a cold boot `(Shutdown And Power ON)` so that the Bluetooth on Windows is not broken
 * Type C Still not remapped  `if you want type c, you can use the USBToolBox tool and Doing remapping USB`
-* To use my EFI, you must generate [SMBios](https://github.com/corpnewt/GenSMBIOS) `For MacOS Ventura, Use SMBios MacBookPro14,1`
+* To use my EFI, you must generate [SMBios](https://github.com/corpnewt/GenSMBIOS) `For MacOS Ventura, Use SMBios MacBookPro14,1, and MacOS Sonoma Use SMBios MacBookPro15,1`
 
 # Credit
     Thanks to Acidanthera for providing AppleALC, BrcmPatchRAM, HibernationFixup, Lilu, NVMeFix, OcBinaryData, OpenCorePkg,         RestrictEvents, VirtualSMC, VoodooInput, VoodooPS2, and WhateverGreen.
