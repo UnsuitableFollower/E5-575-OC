@@ -14,7 +14,7 @@ A Hackintosh EFI For Acer E5-575
 | HDD       | Seagate 1TB HDD 5400rpm              |
 | Memory    | 8GB DDR4 2133Mhz                     |
 | Camera    | 720p Camera                          |
-| WiFi & BT | Atheros 9377                         |
+| WiFi & BT | Intel AC 8265                         |
 | Ethernet  | Realtek 8111
 
 # What's Working
@@ -22,6 +22,7 @@ A Hackintosh EFI For Acer E5-575
 * Acceleration (QE/CI)
 * Trackpad
 * Audio
+* Wi-FI (itlwm / Heliport)
 * Bluetooth
 * Camera
 * Power Management
@@ -30,7 +31,6 @@ A Hackintosh EFI For Acer E5-575
 
 # Not Working
 
-* Wifi `Need change Wifi Card Like Intel, Broadcomm,USB Dongle Wifi Or Workaround Using USB Terthering from your Phone, already includes HoRNDIS Kext`
 * DRM
 
 # Untested
